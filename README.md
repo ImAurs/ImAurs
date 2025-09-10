@@ -1,7 +1,7 @@
 ## Hi I'm BlocksFunction
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
@@ -44,18 +44,18 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Go                       2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Vue.js                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Less                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Go                       2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+TypeScript               1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Vue.js                   1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Less                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 1 min         ██████████████████░░░░░░░   70.07 % 
-GoLand                   2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+WebStorm                 5 hrs 40 mins       █████████████████░░░░░░░░   68.80 % 
+GoLand                   2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
 
 💻 Operating System: 
-Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BlocksFunction/BlocksFunction/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 16:20:31 UTC
+ Last Updated on 10/09/2025 16:19:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=BlocksFunction&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
