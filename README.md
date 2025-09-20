@@ -1,9 +1,7 @@
 ## Hi I'm BlocksFunction
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2036%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,47 +15,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-🌆 Daytime                161 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌃 Evening                179 commits         ████████████░░░░░░░░░░░░░   46.25 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Tuesday                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Wednesday                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Friday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Saturday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Sunday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   1 hr 38 mins        ████████████████░░░░░░░░░   62.05 % 
-GitIgnore file           17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-
-🔥 Editors: 
-WebStorm                 2 hrs 15 mins       █████████████████████░░░░   85.66 % 
-GoLand                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-
-💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -75,7 +32,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BlocksFunction/BlocksFunction/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 16:19:21 UTC
+ Last Updated on 20/09/2025 16:17:18 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=BlocksFunction&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
