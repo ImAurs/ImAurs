@@ -1,4 +1,4 @@
-## Hi I'm BlocksFunction
+## Hi I'm Aur
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2024%20mins-blue)
