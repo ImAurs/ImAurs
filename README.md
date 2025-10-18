@@ -72,12 +72,12 @@ Less                     1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/BlocksFunction/BlocksFunction/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/BlocksFunction/ImAurs/main/assets/bar_graph.png)
 
 
  Last Updated on 17/10/2025 16:20:07 UTC
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api?username=BlocksFunction&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlocksFunction&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAurs&layout=compact)
