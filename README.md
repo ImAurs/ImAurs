@@ -1,7 +1,7 @@
 ## Hi I'm Aur
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -44,18 +44,17 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 37 mins       ████████████████░░░░░░░░░   64.00 % 
-Vue.js                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Go                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Prisma                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TypeScript               5 hrs 16 mins       ██████████████████░░░░░░░   70.48 % 
+Vue.js                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Prisma                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 28 mins       ███████████████████████░░   91.47 % 
-GoLand                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+WebStorm                 7 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +74,7 @@ Less                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 16:21:45 UTC
+ Last Updated on 22/11/2025 16:19:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
