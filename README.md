@@ -3,7 +3,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,17 +44,17 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 43 mins        ███████████████████████░░   93.00 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               1 hr 33 mins        ███████████████████████░░   92.33 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 50 mins        █████████████████████████   100.00 % 
+WebStorm                 1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ Less                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 16:19:06 UTC
+ Last Updated on 24/11/2025 16:19:50 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
