@@ -9,32 +9,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2025
+> 🏆 115 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-🌆 Daytime                161 commits         ███████████░░░░░░░░░░░░░░   42.04 % 
-🌃 Evening                174 commits         ███████████░░░░░░░░░░░░░░   45.43 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+🌆 Daytime                160 commits         ██████████░░░░░░░░░░░░░░░   41.88 % 
+🌃 Evening                174 commits         ███████████░░░░░░░░░░░░░░   45.55 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Friday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Saturday                 72 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Friday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Saturday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
 
 
@@ -44,27 +44,25 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ███████████████████████░░   92.33 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               1 hr 4 mins         █████████████████████████   98.81 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 41 mins        █████████████████████████   100.00 % 
+WebStorm                 1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ███████████████░░░░░░░░░░   58.33 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Less                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               6 repos             ██████████████░░░░░░░░░░░   54.55 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Less                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -74,7 +72,7 @@ Less                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 16:21:20 UTC
+ Last Updated on 28/11/2025 16:21:18 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
