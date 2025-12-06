@@ -9,7 +9,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2025
+> 🏆 116 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-🌆 Daytime                160 commits         ██████████░░░░░░░░░░░░░░░   41.88 % 
-🌃 Evening                174 commits         ███████████░░░░░░░░░░░░░░   45.55 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                157 commits         ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌃 Evening                173 commits         ███████████░░░░░░░░░░░░░░   45.77 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Friday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Saturday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Thursday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Friday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Saturday                 72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
 
@@ -56,11 +56,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ██████████████░░░░░░░░░░░   54.55 % 
+TypeScript               7 repos             ████████████████░░░░░░░░░   63.64 % 
 Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Less                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -70,7 +70,7 @@ Less                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 16:22:14 UTC
+ Last Updated on 06/12/2025 16:19:23 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
