@@ -9,8 +9,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -70,7 +68,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 16:24:53 UTC
+ Last Updated on 11/12/2025 16:26:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
