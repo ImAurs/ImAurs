@@ -1,7 +1,7 @@
 ## Hi I'm Aur
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,17 +44,17 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 40 mins      ████████████████████░░░░░   78.97 % 
-Svelte                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Prisma                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               10 hrs 21 mins      ███████████████████░░░░░░   77.21 % 
+Svelte                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Prisma                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 16:25:40 UTC
+ Last Updated on 15/02/2026 16:25:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
