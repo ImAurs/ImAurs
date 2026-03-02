@@ -1,7 +1,7 @@
 ## Hi I'm Aur
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,17 +44,17 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               35 hrs 14 mins      █████████████████████░░░░   84.36 % 
-Zig                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JSON                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               26 hrs 27 mins      ████████████████░░░░░░░░░   64.54 % 
+CSS                      5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Zig                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Python                   2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Trae                     41 hrs 46 mins      █████████████████████████   100.00 % 
+Trae                     41 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 16:23:42 UTC
+ Last Updated on 02/03/2026 16:41:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
