@@ -1,7 +1,7 @@
 ## Hi I'm Aur
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,18 +44,18 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.93 % 
-C++                      2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Other                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               3 hrs 21 mins       ██████████████░░░░░░░░░░░   54.08 % 
+C++                      1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Less                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       ████████████████████████░   94.51 % 
-Trae                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+VS Code                  5 hrs 59 mins       ████████████████████████░   96.60 % 
+Trae                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2026 16:30:16 UTC
+ Last Updated on 29/03/2026 16:31:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
