@@ -44,18 +44,18 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 30 mins       ███████████████░░░░░░░░░░   58.37 % 
-JSON                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-CSS                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               6 hrs 30 mins       ███████████████░░░░░░░░░░   59.33 % 
+JSON                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+CSS                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 3 mins       █████████████████████████   99.27 % 
-Trae                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+VS Code                  10 hrs 52 mins      █████████████████████████   99.26 % 
+Trae                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 16:59:49 UTC
+ Last Updated on 16/04/2026 17:11:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
