@@ -44,19 +44,19 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 24 mins      ██████████████████░░░░░░░   73.54 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-CSS                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TSConfig                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               10 hrs 38 mins      ███████████████████░░░░░░   74.25 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TSConfig                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 35 mins       █████████████░░░░░░░░░░░░   53.59 % 
-Unknown Editor           4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
-Trae                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+VS Code                  7 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.89 % 
+Unknown Editor           5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
+Trae                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 
 💻 Operating System: 
-Windows                  14 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 16:41:48 UTC
+ Last Updated on 03/05/2026 16:44:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
