@@ -44,16 +44,13 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 mins             ███████████████████░░░░░░   75.30 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Prisma                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           12 mins             █████████████░░░░░░░░░░░░   53.13 % 
-VS Code                  11 mins             ████████████░░░░░░░░░░░░░   46.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +69,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 17:56:27 UTC
+ Last Updated on 13/05/2026 17:58:58 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
