@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Daytime                155 commits         ███████████░░░░░░░░░░░░░░   42.12 % 
-🌃 Evening                165 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
+🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+🌆 Daytime                147 commits         ███████████░░░░░░░░░░░░░░   42.73 % 
+🌃 Evening                150 commits         ███████████░░░░░░░░░░░░░░   43.60 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Saturday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Sunday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Monday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Friday                   73 commits          █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Saturday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -64,10 +64,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             █████████████████░░░░░░░░   66.67 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -77,7 +77,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 16:54:47 UTC
+ Last Updated on 04/08/2026 17:43:24 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
