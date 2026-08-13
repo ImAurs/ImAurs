@@ -64,10 +64,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ██████████████░░░░░░░░░░░   57.14 % 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -77,7 +77,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImAurs/ImAurs/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 16:53:17 UTC
+ Last Updated on 13/08/2026 16:53:05 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ImAurs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
